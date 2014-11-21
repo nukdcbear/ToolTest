@@ -7,7 +7,7 @@
 <title>DCBear Hello World - JSP Example</title>
 </head>
 <body>
-	<%="Hello World!" %>
+	<%="Hello Cruel World!" %>
 	<%="I am here to amuse you." %>
 </body>
 </html>
