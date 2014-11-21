@@ -8,5 +8,6 @@
 </head>
 <body>
 	<%="Hello World!" %>
+	<%="I am here to amuse you." %>
 </body>
 </html>
