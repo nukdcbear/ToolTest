@@ -11,6 +11,6 @@
 	<%="I am here to amuse you." %>
 	<%="I am here to abuse you." %>
 	<%="I am here to confuse you." %>
-	<%="I am here to bemuse you. Wait is that redundent?" %>
+	<%="I am here to bemuse you. Wait is that redundant?" %>
 </body>
 </html>
